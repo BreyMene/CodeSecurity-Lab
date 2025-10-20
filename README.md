@@ -85,7 +85,7 @@ Expected detections:
 - Sensitive Data Exposed 
 
 ## Author
-Breyner Felipe Meneses Muñoz
+Breyner Meneses
 <a href="https://github.com/BreyMene/">
    <img src="https://contrib.rocks/image?repo=BreyMene/BreyMene" alt="Breyner" />
 </a>
