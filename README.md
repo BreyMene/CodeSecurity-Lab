@@ -86,7 +86,9 @@ Expected detections:
 
 ## Author
 Breyner Felipe Meneses Muñoz
-<a href="https://github.com/BreyMene/BreyMene">
+<a href="https://github.com/BreyMene/">
+   <img src="https://contrib.rocks/image?repo=BreyMene/BreyMene" alt="Breyner" />
+</a>
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
